@@ -39,4 +39,67 @@ A Constituição da República Federativa do Brasil de 1988 é a lei máxima e f
 * terabyte : equivale ao tamanho de um HD externo.
 * petabyte : equivale a tudo o que a humanidade escreveu na história e em todas as línguas.
 * exabyte : equivale ao tráfego da internet mundial.
-* zetta
+* zettabyte :representa a massa de dados gerada pela conexão entre pessoas e dispositivos no mundo.
+* yottabyte : equivale a todas as centrais de dados, discos rígidos, pendrives e servidores de todo o mundo.
+
+# Introdução a LGPD
+
+Nesta unidade, você conhecerá o princípio da privacidade no contexto digital, a diferença entre dados e informações, como eles são gerados e adquiridos pelas mais variadas empresas de diferentes interesses.
+Você verá também a importância dos dados para entidades públicas e privadas e o futuro da economia digital do País.
+
+Estamos nos transformando cada vez mais em uma sociedade conectada ao mundo digital, nas suas mais diversas formas, por meio dos dispositivos avançados que a tecnologia disponibiliza no mercado.
+
+Essa transformação acontece exponencialmente, conforme mostram os dados apresentados a seguir, referentes à população do Brasil:
+      ![image](https://user-images.githubusercontent.com/98404361/165957327-f74493a2-7a13-4525-aee1-d07b4646c1a5.png)
+Isso significa que, atualmente, 71% da população brasileira está acessando a internet e 66% estão nas chamadas mídias sociais, como blogs, Facebook, Twitter, Instagram, SlideShare, Youtube, entre outros, realizando todo tipo de interação e trocando dados e informações.
+
+# Dados e informações
+
+Quando falamos da quantidade de dispositivos, pessoas e a crescente expansão da internet, precisamos esclarecer alguns pontos importantes e o primeiro deles é a `diferença entre dados e informações.`
+
+![image](https://user-images.githubusercontent.com/98404361/165958302-f78765af-c917-4726-8bbe-5cb6d3d06b4a.png)
+
+# Dados pessoais e dados pessoais sensíveis
+
+A LGPD aborda nossos dados em duas situações:
+![image](https://user-images.githubusercontent.com/98404361/165958568-ada47677-63d7-48a0-a1c3-f38b1fec0667.png)
+Em outras palavras, informação identificada refere-se aos dados que identificam imediatamente o seu titular, como nome, RG, CPF etc. Já informação identificável trata-se de dados que estão relacionados ao titular, mas indiretamente, como a placa de um carro, perfis comportamentais (tendências de consumo, gostos e interesses), geolocalização (sua localização precisa, por meio do uso do GPS de celulares, por exemplo).
+
+![image](https://user-images.githubusercontent.com/98404361/165958726-769b71bb-b5f8-4ef9-afa5-738a24749d98.png)
+
+A LGPD tem o objetivo de proteger os direitos fundamentais de liberdade e de privacidade, bem como o livre desenvolvimento da personalidade da pessoa natural. Por isso, os dados protegidos pela LGPD são aqueles que se traduzem em informação relacionada à pessoa natural identificada ou identificável.
+
+# O valor de seus dados
+
+Assim que os dados são cruzados e analisados com inteligência de mercado, eles se tornam informações e ganham valor. E quando tratados em larga escala, considerando os dados de muitas outras pessoas, geram tendências e perfis de consumo que movimentam a economia mundial, das pequenas às grandes empresas.
+
+Para você entender como os dados são transformados em informações, faremos uma analogia com a produção de uma cadeira feita de madeira. A madeira é considerada a matéria-prima que ganha valor agregado após a produção do móvel.
+
+![image](https://user-images.githubusercontent.com/98404361/165959079-adb54481-15ba-4d54-b444-852f8ef2c891.png)
+
+As organizações, tanto públicas quanto privadas, executam um processo similar quando coletam os dados que fornecemos direta ou indiretamente para elas, com ou sem o nosso consentimento.
+
+Esses dados são uma matéria-prima valiosa que, após serem analisados, permitem a definição de estratégias de mercado. Por exemplo, os dados coletados no senso demográfico, após analisados pelo governo, permitem definir estratégias para o bom uso dos recursos públicos, como educação, saneamento básico, cultura, criação de programas, entre outros. Já uma empresa privada utiliza os dados coletados dos seus clientes para desenvolver e aprimorar produtos e serviços, direcionar publicidade, criar experiências personalizadas, entre outras ações.
+
+![image](https://user-images.githubusercontent.com/98404361/165959251-120b575c-c200-4662-8617-dea6faf5cff4.png)
+
+# Como os dados são coletados?
+
+A coleta de dados é realizada por meio dos formulários e cadastros, físicos ou eletrônicos, que preenchemos com nossos dados pessoais para contratação de serviços, por exemplo.
+
+Essa coleta, que já é um tratamento de dados, conforme você verá na próxima unidade, ocorre a todo momento em muitos contextos, nas organizações públicas ou privadas, visando diversas finalidades. Para uma empresa realizar atividades de vendas online, por exemplo, precisará, no mínimo, dos dados cadastrais, financeiros e do endereço dos consumidores para executar seus serviços. Da mesma forma, uma empresa que queira implementar o trabalho remoto precisará usar os dados cadastrais para autenticar seus funcionários, fazer o controle da jornada de trabalho e mitigar o risco de horas extras, mantendo os registros eletrônicos de acesso.
+
+![image](https://user-images.githubusercontent.com/98404361/165959537-0c85b62e-54c8-4452-b56e-3ab417bdf8a1.png)
+
+Portanto, com o seu perfil traçado, o mercado passa a saber o que você gosta de consumir, lugares que gosta de ir, assuntos de interesse, seus gastos, entre outras informações.
+![image](https://user-images.githubusercontent.com/98404361/165959972-7497079b-41d6-4e54-9e5f-525b908b81b5.png)
+
+A coleta e a utilização de dados são importantes e necessárias às atividades das organizações públicas e privadas, sendo a moeda da economia digital, de forma geral. No entanto, a partir de agora, há uma legislação específica, visando a proteção de dados, que determina às organizações diretrizes para a coleta e o uso de dados pessoais dos indivíduos.
+
+Situações como as apresentadas acima, como a coleta e o compartilhamento de dados, sejam por meio de formulários físicos ou automáticos, sem a ciência e o consentimento do titular dos dados, não são mais permitidas pela LGPD, além de serem passíveis de sanções administrativas, conforme você verá mais à frente.
+
+
+
+
+
+
