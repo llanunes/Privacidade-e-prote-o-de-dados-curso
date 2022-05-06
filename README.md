@@ -98,6 +98,11 @@ A coleta e a utilização de dados são importantes e necessárias às atividade
 
 Situações como as apresentadas acima, como a coleta e o compartilhamento de dados, sejam por meio de formulários físicos ou automáticos, sem a ciência e o consentimento do titular dos dados, não são mais permitidas pela LGPD, além de serem passíveis de sanções administrativas, conforme você verá mais à frente.
 
+# Proteção da privacidade
+
+Se por um lado as grandes empresas disputam nossos dados, por outro devemos nos preocupar com a privacidade dos dados que compartilhamos pela internet, cópias de documentos que fornecemos ou simplesmente informamos para preencher determinado cadastro.
+![image](https://user-images.githubusercontent.com/98404361/167146075-9fcfd208-0a39-4c8d-a9f0-3de06ab385f1.png)
+
 
 
 
